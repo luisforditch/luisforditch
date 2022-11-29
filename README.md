@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luisforditch
+- 👋 Hi, I’m Luis
 - 👀 I’m interested in fintech, machine learning, and chess
 - 🌱 I’m currently working on a flutter app called Ditch
 - 💞️ I’m looking to bring on talented people to my team
