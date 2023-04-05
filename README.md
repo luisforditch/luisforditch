@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Luis
-- 👀 I’m interested in fintech, machine learning, and chess
-- 🌱 I’m currently working on a flutter app called Ditch
-- 💞️ I’m looking to bring on talented people to my team
-- 📫 Best way to reach me is at luis@ditch.io
+## Hello, i'm Luis
 
-<!---
-luisforditch/luisforditch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am the Founder and CEO of Ditch. We're utilizing AI to revolutionize the way consumers manage and repay their debt. We're on a mission to help people achieve lasting financial freedom.
